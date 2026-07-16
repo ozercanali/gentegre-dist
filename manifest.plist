@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://genyazilim.com/Personel/Ali/Gentegre.ipa</string>
+                    <string>https://ozercanali.github.io/gentegre-dist/Gentegre.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.turkuazmobile.gentegre</string> <!-- Delphi'deki Bundle ID -->
+                <string>com.turkuazmobile.gentegre</string> <!-- Delphi'deki Bundle ID[cite: 1] -->
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
