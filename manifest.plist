@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.turkuazmobile.gentegre</string> <!-- Delphi'deki Bundle ID[cite: 1] -->
                 <key>bundle-version</key>
-                <string>1.0.179</string>
+                <string>1.0.180</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
